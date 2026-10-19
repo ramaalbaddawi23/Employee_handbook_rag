@@ -1,0 +1,7 @@
+streamlit
+gradio
+qdrant-client[fastembed]==1.11.3
+pypdf==5.1.0
+transformers
+accelerate
+torch
